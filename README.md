@@ -8,7 +8,7 @@ This project provides users with an interactive platform to explore Rajasthan’
 
 The application focuses on delivering a modern UI/UX experience with responsive layouts, smooth navigation, and optimized frontend performance.
 
-Features
+Features:
 
 Responsive modern user interface
 
@@ -27,7 +27,7 @@ Mobile-friendly layout
 Optimized frontend performance
 
 
-Tech Stack
+Tech Stack:
 
 React
 
@@ -64,7 +64,7 @@ Project Goal
 
 The goal of this project is to create a visually appealing tourism platform that digitally represents Rajasthan’s heritage, tourism opportunities, historical architecture, and cultural diversity while practicing modern frontend development concepts.
 
-Future Improvements
+Future Improvements:
 
 Hotel and booking integration
 
